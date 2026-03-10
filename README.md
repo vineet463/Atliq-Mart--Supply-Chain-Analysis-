@@ -77,4 +77,5 @@ This analysis highlights which products and categories require operational atten
 
 
 
-Live Power Bi Dashboard -<iframe title="Supply Chain" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDhiZDBjM2EtYTNkMS00OTI1LThjODQtNTNhNjEzODlmZTQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
+Live Power Bi Dashboard -https://app.powerbi.com/view?r=eyJrIjoiMDhiZDBjM2EtYTNkMS00OTI1LThjODQtNTNhNjEzODlmZTQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
