@@ -8,8 +8,8 @@ The dashboard evaluate key service metrics such as On-Time Delivery (OT), In-Ful
 The goal of the project is to identify performance gaps, operational challenges, and potential root causes 
 
 #### 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭
-A few key customers haven't renewed the annual contract due to the service issues. This might have resulted in the bad service experience. Hence, the management wants to track the "On-Time" & In-Full" delivery service levels for all the customers on daily basis to fix them and later expand the business to new cities.
 
+AtliQ Mart is facing an issue where some key customers did not renew their annual contracts due to service problems. It is suspected that some products were not delivered on time or in full. To solve this, management asked the supply chain team to track On-Time and In-Full deliveries so they can quickly identify and fix these issues before expanding to new cities.
 
 #### Tools Used
 
