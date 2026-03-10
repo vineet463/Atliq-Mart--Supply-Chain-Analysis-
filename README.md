@@ -7,6 +7,10 @@ The dashboard evaluate key service metrics such as On-Time Delivery (OT), In-Ful
 
 The goal of the project is to identify performance gaps, operational challenges, and potential root causes 
 
+#### 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭
+A few key customers haven't renewed the annual contract due to the service issues. This might have resulted in the bad service experience. Hence, the managenent wants to track the "On-Time" & In-Full" delivery service levels for all the customers on daily basis to fix them and later expand the business to new cities.
+
+
 #### Tools Used
 
 Power BI – Dashboard development and visualization
