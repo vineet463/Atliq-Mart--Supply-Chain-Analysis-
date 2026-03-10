@@ -8,7 +8,7 @@ The dashboard evaluate key service metrics such as On-Time Delivery (OT), In-Ful
 The goal of the project is to identify performance gaps, operational challenges, and potential root causes 
 
 #### 𝐏𝐫𝐨𝐛𝐥𝐞𝐦 𝐒𝐭𝐚𝐭𝐞𝐦𝐞𝐧𝐭
-A few key customers haven't renewed the annual contract due to the service issues. This might have resulted in the bad service experience. Hence, the managenent wants to track the "On-Time" & In-Full" delivery service levels for all the customers on daily basis to fix them and later expand the business to new cities.
+A few key customers haven't renewed the annual contract due to the service issues. This might have resulted in the bad service experience. Hence, the management wants to track the "On-Time" & In-Full" delivery service levels for all the customers on daily basis to fix them and later expand the business to new cities.
 
 
 #### Tools Used
@@ -77,4 +77,4 @@ This analysis highlights which products and categories require operational atten
 
 
 
-
+Live Power Bi Dashboard -<iframe title="Supply Chain" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDhiZDBjM2EtYTNkMS00OTI1LThjODQtNTNhNjEzODlmZTQ3IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9" frameborder="0" allowFullScreen="true"></iframe>
